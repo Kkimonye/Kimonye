@@ -1,2 +1,0 @@
-# Kimonye
-Python Copy Project
